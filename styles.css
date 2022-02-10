@@ -1,0 +1,12 @@
+p {
+    background: beige;
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: 300;
+    font-family: "Sitka Banner";
+    border: 4px  solid orange;
+    padding: 50px;
+    margin: 200px;
+
+    box-shadow: 10px 10px grey;
+}
